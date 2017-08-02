@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Project Z"
+baseURL = "https:\/\/projectz.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "projectz.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
